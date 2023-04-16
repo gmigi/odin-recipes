@@ -1,0 +1,29 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* change background color of whole page */
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(pink, aqua, pink);
+}
+
+div {
+    display: table;
+    
+}
+
+h1 {
+    display: table;
+    color: black;
+    font-weight: bold;
+}
+
+img {
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-radius: 10px;
+}
